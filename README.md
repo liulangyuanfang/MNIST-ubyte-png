@@ -1,1 +1,1 @@
-# MNIST-ubyte-png
+# MNIST数据集格式ubyte转png
